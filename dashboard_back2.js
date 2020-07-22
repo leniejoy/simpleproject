@@ -1,4 +1,4 @@
-<script type="text/javascript" src="../SiteAssets/jquery.js"> </script>
+<script type="text/javaskghkggjghghcript" src="../SiteAssets/jquery.js"> </script>
 <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
 <style>
 
