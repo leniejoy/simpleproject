@@ -142,7 +142,7 @@
 		 * @param num Page number.
 		 */
 		function renderPage(num)
-		{
+		{console.log('set');
 			if (pageRendering) {pageNumPending = num;}
 			else
 			{
