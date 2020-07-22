@@ -101,7 +101,7 @@
 <script>
 //<iframe id="Exam" width="100%" height="500px" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh; margin: auto; display:block;" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 	$(function() {
-		console.log('lensdvcdvfgergerdcdcdscgeereferfrf');
+		console.log('lensdvcdvfgergerdcdcdsdedecgeereferfrf');
 		fncView("dashboard","");
 		$('#centerprogress').hide();
 		$('#pdf_menu').hide();
